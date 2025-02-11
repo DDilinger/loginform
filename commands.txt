@@ -1,0 +1,11 @@
+npx create-vite@latest frontend --template react
+cd frontend
+npm install
+npm install axios react-router-dom dayjs jwt-decode sweetalert2
+npm install bootstrap
+npm run dev
+
+Tailwind
+npm install tailwindcss @tailwindcss/vite
+https://tailwindcss.com/docs/installation/using-vite
+https://boxicons.com/
